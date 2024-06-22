@@ -2,38 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ordinaico.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://ordinaico.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://ordinaico.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ordinaico.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ordinaico.github.io/posts/wiki/</loc>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ordinaico.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -51,10 +24,29 @@
                 />
   </url><url>
     <loc>https://ordinaico.github.io/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ordinaico.github.io/wiki/</loc>
+    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ordinaico.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ordinaico.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ordinaico.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ordinaico.github.io/categories/"
+                />
   </url><url>
     <loc>https://ordinaico.github.io/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -71,11 +63,7 @@
                 href="https://ordinaico.github.io/series/"
                 />
   </url><url>
-    <loc>https://ordinaico.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ordinaico.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -91,43 +79,5 @@
                 hreflang="en"
                 href="https://ordinaico.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://ordinaico.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/posts/wiki/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/wiki/</loc>
-    <lastmod>2017-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ordinaico.github.io/tags/index/</loc>
   </url>
 </urlset>
