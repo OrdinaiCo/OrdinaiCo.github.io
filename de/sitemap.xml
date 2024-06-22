@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/categories/</loc>
+    <loc>https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/categories/"
                 />
   </url><url>
-    <loc>/de/</loc>
+    <loc>https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/"
                 />
   </url><url>
-    <loc>/de/series/</loc>
+    <loc>https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/series/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/series/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/series/"
                 />
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://github.com/OrdinaiCo/OrdinaiCo.github.io/de/tags/"
                 />
   </url>
 </urlset>
