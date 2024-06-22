@@ -1,4 +1,4 @@
-baseURL = "//github.com/OrdinaiCo/OrdinaiCo.github.io/"
+baseURL = "https://ordinaico.github.io/"
 title = "Ordinai"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -15,7 +15,7 @@ startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
-#images = "images/background.png"
+#images = "images/"
 
 [[params.menu.main]]
 url = '/'
