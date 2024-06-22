@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/categories/</loc>
+    <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/categories/"
+                href="/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/</loc>
+    <loc>/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/"
+                href="/es/"
                 />
   </url><url>
-    <loc>http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/series/</loc>
+    <loc>/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/de/series/"
+                href="/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/series/"
+                href="/es/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/tags/</loc>
+    <loc>/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/OrdinaiCo/OrdinaiCo.github.io/es/tags/"
+                href="/es/tags/"
                 />
   </url>
 </urlset>

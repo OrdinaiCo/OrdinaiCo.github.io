@@ -1,4 +1,4 @@
-baseURL = "https://github.com/OrdinaiCo/OrdinaiCo.github.io/"
+baseURL = "/"
 title = "Ordinai"
 languageCode = "en-us"
 defaultContentLanguage = "en"
