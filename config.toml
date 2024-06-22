@@ -1,0 +1,156 @@
+baseURL = "https://github.com/OrdinaiCo/OrdinaiCo.github.io/"
+title = "Ordinai"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+#googleAnalytics = "G-XXXXXXXXXX"
+
+[params]
+fancytitle = 'Ordinai'
+copyright = "John Doe"
+description = 'Medieval Fantasy Sandbox'
+startbuttonText = "Activate"
+startbuttonLink = "#"
+body_is_markdown = true
+#custom_css = "foo.css"
+#custom_sass = "bar.scss"
+#images = "images/background.png"
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Changelogs"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'Ignite your senses and feel the experience come alive.'
+body = '''
+Unleashing its potential, currently in development.
+'''
+
+[[params.one.icon]]
+icon = "fa-gem"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-heart"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "solid fa-code"
+style = "3"
+label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "images/background.png"
+img_alt = "blurry background: white/grey"
+title = 'Enjoy your time with friends'
+body = 'Experience the joy of shared adventures as you bask in unforgettable moments with cherished friends.'
+
+[[params.two.section]]
+img = "images/background2.png"
+title = 'Friendly developers team'
+body = 'A friendly developers team fosters a seamless and collaborative process, enhancing the overall development and in-game experience.'
+
+[[params.two.section]]
+img = "images/background3.png"
+title = 'Convenience via Curseforge'
+body = 'Streamline the installation process effortlessly with the convenience of user-friendly Curseforge.'
+
+[params.three]
+enable = true
+title = 'Accumsan mus tortor nunc aliquet'
+body = '''
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+'''
+
+[[params.three.feature]]
+icon = "fa-paper-plane"
+title = "Arcu accumsan"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "solid fa-laptop"
+title = "Ac Augue Eget"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "solid fa-code"
+title = "Foo bar"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "solid fa-headphones-alt"
+title = "Baz kram"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-heart"
+title = "Some latin text"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[[params.three.feature]]
+icon = "fa-flag"
+title = "Nothing important"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[params.cta]
+enable = true
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "Learn More"
+special = false
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Leave us a message."
+address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = "OrdinaiCo"
+facebook = ""
+youtube = "@Ordinai"
+instagram = ""
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
