@@ -11,7 +11,7 @@ fancytitle = 'Ordinai'
 copyright = "John Doe"
 description = 'Medieval Fantasy Sandbox'
 startbuttonText = "Activate"
-startbuttonLink = "#"
+startbuttonLink = "https://www.curseforge.com/minecraft/modpacks/ordinai"
 body_is_markdown = true
 #custom_css = "foo.css"
 #custom_sass = "bar.scss"
@@ -73,56 +73,39 @@ body = 'Streamline the installation process effortlessly with the convenience of
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'How We Operate'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
 [[params.three.feature]]
-icon = "fa-paper-plane"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "solid fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
 icon = "solid fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Development"
+body = "Ordinai development is driven by core values of authenticity, creativity, player engagement, quality, and inclusivity. The team meticulously integrates historical artifacts, encourages innovative approaches, values community input, delivers polished experiences, and fosters a diverse and inclusive gaming environment. These values shape Ordinai into an immersive and engaging RPG for players to enjoy."
 
 [[params.three.feature]]
 icon = "solid fa-headphones-alt"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Values"
+body = "The developers of Ordinai, hailing from Lithuania, seek to incorporate values such as authenticity, cultural heritage, inclusivity, collaboration, and community engagement into the project. Drawing inspiration from their own heritage, they aim to create an immersive and respectful game experience that celebrates and reflects aspects of Lithuanian history, while also involving players in shaping the game."
 
 [[params.three.feature]]
 icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Objective"
+body = "The primary objective of Ordinai is to create a captivating RPG experience centered around historical artifacts while continuously optimizing and enhancing the game's progression system."
 
 [[params.three.feature]]
 icon = "fa-flag"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Our Team"
+body = "Developers: VodeuM, Dudalypas <br /> Artist: Mace <br /> Testers: DSTX, SeatbeltThief"
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Changelogs"
+body = "Summarizes updates, fixes, enhancements, and changes."
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "/posts/"
+text = "learn more"
 special = true
-
-[[params.cta.link]]
-href = "#"
-text = "Learn More"
-special = false
 
 [params.contact]
 enable = true
@@ -130,16 +113,16 @@ title = "Contact"
 body = "Leave us a message."
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
 subject = "New Submission!"
-formspree_form_id = "example_invalid"
+formspree_form_id = "xovaadej"
 
 [params.social]
 twitter = ""
 mastodon = ""
 github = "OrdinaiCo"
-facebook = ""
+discord = "https://discord.com/invite/wJWJKXMhNe"
 youtube = "@Ordinai"
 instagram = ""
-dribble = ""
+curseforge = "https://www.curseforge.com/minecraft/modpacks/ordinai"
 
 # language specific options
 
