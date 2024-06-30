@@ -1,4 +1,4 @@
-baseURL = "https://ordinaico.github.io/"
+baseURL = "https://playordinai.github.io/"
 title = "Ordinai"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -95,7 +95,7 @@ body = "The primary objective of Ordinai is to create a captivating RPG experien
 [[params.three.feature]]
 icon = "fa-flag"
 title = "Our Team"
-body = "Developers: VodeuM, Dudalypas <br /> Artist: Mace <br /> Testers: DSTX, SeatbeltThief"
+body = "Developers: VodeuM, Dudalypas <br /> Artist: Mace <br /> Testers: DSTX"
 
 [params.cta]
 enable = true
