@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ordinaico.github.io/es/categories/</loc>
+    <loc>https://playordinai.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ordinaico.github.io/de/categories/"
+                href="https://playordinai.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ordinaico.github.io/categories/"
+                href="https://playordinai.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ordinaico.github.io/es/categories/"
+                href="https://playordinai.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://ordinaico.github.io/es/</loc>
+    <loc>https://playordinai.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ordinaico.github.io/de/"
+                href="https://playordinai.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ordinaico.github.io/"
+                href="https://playordinai.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ordinaico.github.io/es/"
+                href="https://playordinai.github.io/es/"
                 />
   </url><url>
-    <loc>https://ordinaico.github.io/es/series/</loc>
+    <loc>https://playordinai.github.io/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ordinaico.github.io/de/series/"
+                href="https://playordinai.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ordinaico.github.io/series/"
+                href="https://playordinai.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ordinaico.github.io/es/series/"
+                href="https://playordinai.github.io/es/series/"
                 />
   </url><url>
-    <loc>https://ordinaico.github.io/es/tags/</loc>
+    <loc>https://playordinai.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://ordinaico.github.io/de/tags/"
+                href="https://playordinai.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ordinaico.github.io/tags/"
+                href="https://playordinai.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ordinaico.github.io/es/tags/"
+                href="https://playordinai.github.io/es/tags/"
                 />
   </url>
 </urlset>
